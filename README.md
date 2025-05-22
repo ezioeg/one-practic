@@ -10,25 +10,22 @@ One Practic is a practice project built with React Native CLI, designed to imple
 
 ## Technologies Used
 ### Core
-- React Native 0.79.2
-- React v19.0.0
-- @react-navigation/native v7.1.8
-- @react-navigation/native-stack v7.3.12
-- @react-navigation/bottom-tabs v7.3.12
-- react-native-screens v4.10.0
-- react-native-safe-area-context v5.4.0
-- react-native-gesture-handler v2.25.0
-- react-native-reanimated v3.17.5
+- [React Native](https://reactnative.dev/) `0.79.2`
+- [React](https://reactjs.org/) `v19.0.0`
+- [React Navigation Native](https://reactnavigation.org/docs/getting-started) `v7.1.8`
+- [React Navigation Native Stack](https://reactnavigation.org/docs/native-stack-navigator) `v7.3.12`
+- [React Navigation Bottom Tabs](https://reactnavigation.org/docs/bottom-tab-navigator) `v7.3.12`
 
 ### UI/Styling
-- lucide-react-native v0.507.0 (Icons)
-- react-native-svg v15.11.2
+- [Lucide React Native](https://github.com/lucide-icons/lucide-react-native) `v0.507.0` (Icons)
+- [React Native Svg](https://github.com/react-native-svg/react-native-svg) `v15.11.2`
 
 ### State Management
-- 
+- *NA*
 
 ### Utilities
-- Axios v1.9.0
+- [Axios](https://axios-http.com/) `v1.9.0`
+
 
 ## Setup
 Install dependencies:
