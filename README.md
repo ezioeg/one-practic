@@ -1,13 +1,12 @@
-# One Practic
+## 🛠️ One Practic  
+Practice project developed with React Native CLI, focused on implementing a basic app structure with navigation, reusable components, and CRUD operations for products. The app connects to a custom Nest.js API, which is available in the same GitHub repository under the name `graphrestapi-nest`.
 
-One Practic is a practice project built with React Native CLI, designed to implement basic app structure including navigation, reusable components, and a simple CRUD interface for products. This app connects to a custom API built with Nest.js, which is also available in the same GitHub repository under the name graphrestapi-nest.
-
-## Features
-
-- Basic navigation with React Navigation, along with basic components and app structure
-- Product listing with data fetched from a custom API
-- Product detail view with relevant information
-- Create, update, and delete functionality for products
+### Features  
+- Basic navigation using React Navigation, with reusable components and app structure.  
+- Product listing fetching data from the custom REST API.  
+- Product detail view displaying relevant product information.  
+- Create, update, and delete (CRUD) operations for products implemented via REST.  
+- GraphQL CRUD operations are planned but not yet implemented.
 
 ## Technologies Used
 
